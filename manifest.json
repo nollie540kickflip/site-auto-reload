@@ -1,0 +1,1 @@
+{"action":{"default_popup":"popup.html","default_title":"Site Auto Reload"},"background":{"service_worker":"background.js"},"description":"指定したサイトのタブだけを、指定した間隔で自動リロードします。","manifest_version":3,"name":"Site Auto Reload","permissions":["storage","tabs","alarms"],"version":"1.0.0"}
